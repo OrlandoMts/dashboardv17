@@ -1,9 +1,12 @@
-import { Component } from "@angular/core";
 import { CommonModule } from "@angular/common";
+import { Component } from "@angular/core";
+import { RouterOutlet } from "@angular/router";
+
+import { SidemenuComponent } from "@shared/sidemenu/sidemenu.component";
 
 @Component({
 	standalone: true,
-	imports: [CommonModule],
+	imports: [CommonModule, RouterOutlet, SidemenuComponent],
 	templateUrl: "./dashboard.component.html",
 	styles: ``,
 })
