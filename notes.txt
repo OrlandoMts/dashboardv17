@@ -1,0 +1,2 @@
+El @defer me puede servir mucho para mostrar componentes hasta que se necesiten
+En el componente DeferOptionsComponent tengo un ejemplo que se contruye el componente hasta que hay un clic

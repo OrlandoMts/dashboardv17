@@ -4,4 +4,5 @@ export { DeferOptionsComponent } from "./defer-options/defer-options.component";
 export { DeferViewsComponent } from "./defer-views/defer-views.component";
 export { UserComponent } from "./user/user.component";
 export { UsersComponent } from "./users/users.component";
-export { ViewTransitionComponent } from "./view-transition/view-transition.component";
+export { ViewTransitionComponent1 } from "./view-transition/view-transition1.component";
+export { ViewTransitionComponent2 } from "./view-transition/view-transition2.component";
